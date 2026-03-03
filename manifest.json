@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "4D Palette Visualizer",
+    "version": "1.0",
+    "description": "Visualize image color palettes in an interactive 3D HSV space.",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Open Visualizer"
+    }
+}
